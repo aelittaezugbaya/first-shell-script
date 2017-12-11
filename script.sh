@@ -1,3 +1,3 @@
 #!/bin/bash
-
-echo "Hello world!"
+numNodes=$1
+echo 'Number of nodes is' $numNodes
